@@ -1,0 +1,126 @@
+/* Website Title */
+body {
+    font-family: 'Delius';
+    margin: 0 10%;
+}
+
+.title {
+    font-family: 'Delius';
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Sections */
+.section {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+/* Subheadings for each section */
+.subheading {
+    font-family: 'Delius';
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Container for the colour swatches */
+.colour-container {
+    width: 100%;
+}
+
+/* Each colour box */
+.colour-panel {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    margin: 20px 1px;
+    min-height: 100px;
+}
+
+.colour1 {
+    background-color: #2d5dcc;
+    color: #fff;
+}
+
+.colour2 {
+    background-color: #d957d9;
+    color: #000;
+}
+
+.colour3 {
+    background-color: #4fe0b0;
+    color:#000;
+}
+
+/* Labels for each of the colours */
+.colour-label {
+
+}
+
+/* Hex numbers for each of the colours */
+.colour-hex {
+
+}
+
+.font-container {
+    width: 100%;
+}
+
+.font-panel {
+    width: 48%;
+    display: inline-block;
+    text-align: center;
+}
+
+.font-label {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.font1 {
+    font-family: 'Delius';
+}
+
+.font2 {
+    font-family: 'Lilita One';
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.styles-container {
+    width: 100%;
+}
+
+.styles-panel {
+    text-align: center;
+}
+
+.styles-panel ul {
+    list-style-position: inside;
+}
+
+.styles-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.styles-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.styles-panel p {
+    font-weight: 400;
+    font-size: 14px;
+}
